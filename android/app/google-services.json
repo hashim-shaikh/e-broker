@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "295923717138",
+    "project_id": "hash-ebroker-dc902",
+    "storage_bucket": "hash-ebroker-dc902.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295923717138:android:e03e5ec2515475d141b4cb",
+        "android_client_info": {
+          "package_name": "com.ebroker.wrteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295923717138-gmo8g84h4t6bctcqcae6pkohfjle8u52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebroker.wrteam",
+            "certificate_hash": "3a4303846275f6d365383f13e68c595834f2708a"
+          }
+        },
+        {
+          "client_id": "295923717138-ruf70idf5dg3rnj0j4skh8sqd5r7amq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebroker.wrteam",
+            "certificate_hash": "bcaceba80795dc4c267ee143fc79b913e3200b0d"
+          }
+        },
+        {
+          "client_id": "295923717138-651a8ekgbtc8e4pe4mdapgq91chpdr0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4HXNc4IjpYlTUTlnvHaz1db0TfUPTvzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295923717138-651a8ekgbtc8e4pe4mdapgq91chpdr0n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "295923717138-q84tq61nb1ve4frk92fq82l8v15cj25p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ebroker.wrteam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
