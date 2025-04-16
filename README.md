@@ -9,6 +9,7 @@ cd android/
 keytool -genkey -v -keystore keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias upload -storepass {PASSWORD HERE} -keypass {PASSWORD HERE} -dname "CN={Your Name}, OU={Your Unit}, O={Your Organization}, L={Your Location}, S={Your State}, C={Your Country}" 
 ```
 
+[//]: # jdhfhfohowjwofwjofjwojfowjh()
 
 
 ## Obtain SHA Keys
